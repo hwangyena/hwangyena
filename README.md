@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangyena%2Fhit-counter&count_bg=%23C4C4C4&title_bg=%2352B9F9&icon=aiqfome.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi there 👋
-Junior Front-end Dev.
+### 👋 Hi there 
+> Junior Front-end Dev.
 
----
+[Portfoilo](https://yesme.notion.site/YES-ME-a1dc69f916e1467f947545ad700cb728) |  [Blog](https://velog.io/@hwangyena)
 
 ### 🔥 Tech Stack
 <img
