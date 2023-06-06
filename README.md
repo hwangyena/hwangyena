@@ -55,7 +55,3 @@
 <img
   src="https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&logo=GreenSock&logoColor=white"
 />
-
--------
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangyena&show_icons=true)
